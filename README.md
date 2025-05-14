@@ -32,14 +32,14 @@ Program ini adalah simulasi perhitungan gaji pegawai di PT Mitra Sarana berdasar
 ```yml
          MASUKKAN DATA DIRI ANDA
 ===========================================
-NIP             : 2022310035
+NIP             : 1789238003
 NAMA            : LUQMAN
 GOLONGAN [A/B/C]: B
 GAJI POKOK      : 5000000
 
       DATA GAJI PEGAWAI PT MITRA SARANA
 ===========================================
-NIP            : 2022310035
+NIP            : 1789238003
 NAMA           : LUQMAN
 GOLONGAN       : B
 JABATAN        : MANAGER
